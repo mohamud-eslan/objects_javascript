@@ -1,0 +1,30 @@
+img{
+    width: 300px;
+}
+.itemOne{
+    max-width: 300px;
+    position: absolute;
+    left: 4%;
+    border: 1px solid gray;
+    box-shadow: gray;
+    border-radius: 20px;
+}
+.itemOne #shoe1Desc{
+    padding: 10px;
+}
+
+    img #shoes3{
+        width: 300px
+}
+.itemTwo{
+    max-width: 300px;
+    position: absolute;
+    padding-top: 10px;
+    right: 8%;
+    border: 1px solid gray;
+    box-shadow: gray;
+    border-radius: 20px;
+}
+.itemTwo #shoe2Desc{
+    padding: 10px;
+}
