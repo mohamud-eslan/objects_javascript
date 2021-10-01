@@ -8,6 +8,7 @@ img{
     border: 1px solid gray;
     box-shadow: gray;
     border-radius: 20px;
+    cursor: pointer;
 }
 .itemOne #shoe1Desc{
     padding: 10px;
@@ -24,6 +25,7 @@ img{
     border: 1px solid gray;
     box-shadow: gray;
     border-radius: 20px;
+    cursor: pointer;
 }
 .itemTwo #shoe2Desc{
     padding: 10px;
