@@ -5,9 +5,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 id="myHeading"></h1>
+    <div class="container" >
+        <img id="sawir1" class="sawir">
+        <h3 id="productName">Name</h3>
+        <h1 id="productPrice">KES</h1>
+        <p id="productDesc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ratione delectus incidunt, molestiae nihil mollitia itaque enim, quis, ex laudantium ullam tenetur iure nam facilis rem vitae iusto voluptas! Ipsa.</p>
+
+    </div >
+    
+    <div style="display: flex; height: 50px;">
+        <p>select quantity</p>
+        <select name=""  id="quantityValue"> 
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+        </select>
+
+    </div>
+    <div>
+        <label for="deliveryAddress"></label>
+        <select name="" id="deliveryAddress">
+            <option value=""></option>
+            <option value="livingtown">living town</option>
+            <option value="kilimani">kilimani</option>
+            <option value="westLand">westLand</option>
+        </select>
+    </div>
+    <h3 id="finalPrice"></h3>
+    <button class="shop" id="shop1">shop now</button>
+
+    
+    
     
     <script src="dails.js"></script>
 </body>

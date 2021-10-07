@@ -9,7 +9,7 @@ var shoe1 = {
 var shoe2 = {
     shoesName: "sport shoes",
     shoesImage: "shoes3.jpg",
-    shoesPrice: "2000",
+    shoesPrice: "3000",
     shoesColor: "maroon",
     shoesId: "7712",
     shoesDesc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry."

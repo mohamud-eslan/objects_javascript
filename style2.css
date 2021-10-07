@@ -1,24 +1,21 @@
-
 img{
     width: 300px;
 }
-.itemOne{
+div .shop{
     max-width: 300px;
-    position: absolute;
+    position: relative;
     left: 4%;
     border: 1px solid gray;
     box-shadow: gray;
     border-radius: 20px;
     cursor: pointer;
 }
-.itemOne #shoe1Desc{
-    padding: 10px;
-}
 
-    img #shoes3{
+
+    img .shoes{
         width: 300px
 }
-.itemTwo{
+div .shop1{
     max-width: 300px;
     position: absolute;
     padding-top: 10px;
@@ -28,9 +25,7 @@ img{
     border-radius: 20px;
     cursor: pointer;
 }
-.itemTwo #shoe2Desc{
-    padding: 10px;
-}
+
 .btn{
     width: 150px;
     background-color: red;
